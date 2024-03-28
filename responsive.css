@@ -16,7 +16,7 @@
     .option{
         border-radius: 20%;
         font-size :1.5em;
-        background:red;
+        background:red;    
         color: white;
     }
     @media screen and (max-width: 400px) {
